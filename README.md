@@ -4,7 +4,7 @@
     <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aynur</a>
 </div>
 
-### :man_technologist: About me:
+### :man_technologist:
         
 :seedling: I am currently learning Java as a beginner.
 
