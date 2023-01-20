@@ -7,8 +7,7 @@
 ### :man_technologist: About me:
         
 :seedling: I am currently learning Java as a beginner.
-- 🌱 I am currently learning Java as a beginner.
-- 👯 I’m looking to collaborate on sber.
+
 ---
 
 ### Languages
