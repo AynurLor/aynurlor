@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
-    <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aynur</a>
+    <h1 align="center">Hi there, I'm <a target="_blank">Aynur</a>
 </div>
 
 ### :man_technologist:
