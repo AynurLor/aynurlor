@@ -6,7 +6,7 @@
 
 ### :man_technologist:
         
-:seedling: I am currently learning Java as a beginner.
+:seedling: Java Developer.
 
 ---
 
