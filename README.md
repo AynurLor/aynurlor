@@ -16,7 +16,7 @@
 ![GIT](https://img.shields.io/badge/-GIT-blueviolet?style=for-the-badge&logo=GIT)
 ![QT](https://img.shields.io/badge/Qt-blueviolet?style=for-the-badge&logo=QT)
 ![GTEST](https://img.shields.io/badge/GTEST-blueviolet?style=for-the-badge&logo=testing-library&logoColor=red)
-
+![KOTLIN](https://img.shields.io/badge/Java-blueviolet?style=for-the-badge&logo=java&logoColor=white)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Jerlenem-blueviolet?style=flat&logo=Telegram)](https://t.me/Jerlenem)
