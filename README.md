@@ -6,7 +6,7 @@
 
 ### :man_technologist:
         
-:seedling: Java Developer.
+:seedling: Java/Kotlin Developer.
 
 ---
 
