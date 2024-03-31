@@ -6,17 +6,16 @@
 
 ### :man_technologist:
         
-:seedling: Java/Kotlin Developer.
+Java/Kotlin Developer.
 
 ---
 
 ### Languages
-![C++](https://img.shields.io/badge/-C/C++-blueviolet?style=for-the-badge&logo=C%2b%2b)
 ![JAVA](https://img.shields.io/badge/Java-blueviolet?style=for-the-badge&logo=java&logoColor=white)
-![GIT](https://img.shields.io/badge/-GIT-blueviolet?style=for-the-badge&logo=GIT)
-![QT](https://img.shields.io/badge/Qt-blueviolet?style=for-the-badge&logo=QT)
-![GTEST](https://img.shields.io/badge/GTEST-blueviolet?style=for-the-badge&logo=testing-library&logoColor=red)
+![SPRING](https://img.shields.io/badge/-Spring-blueviolet?style=for-the-badge&logo=spring)
+![JUNIT5](https://img.shields.io/badge/-JUNIT5-blueviolet?style=for-the-badge&logo=JUNIT5)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blueviolet?style=for-the-badge&logo=SQL)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Jerlenem-blueviolet?style=flat&logo=Telegram)](https://t.me/Jerlenem)
